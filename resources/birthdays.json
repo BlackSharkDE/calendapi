@@ -1,0 +1,48 @@
+{
+    "public": [
+        { "Albert Einstein": "14.03.1879" },
+        { "Galileo Galilei": "15.02.1564" },
+        { "Richard Feynman": "11.05.1918" },
+        { "Robert Oppenheimer": "22.04.1904" },
+        { "Erwin Schrödinger": "12.08.1887" },
+        { "Nikola Tesla": "10.07.1856" },
+        { "Stephen Hawking": "08.01.1942" },
+        { "Marie Curie": "07.11.1867" },
+        { "Werner Heisenberg": "05.12.1901" },
+        
+        { "Thomas Edison": "11.02.1847" },
+        { "Benjamin Franklin": "17.01.1706" },
+        { "Alexander Graham Bell": "03.03.1847" },
+        { "Charles Darwin": "12.02.1809" },
+        { "Christoph Kolumbus": "25.08.1451" },
+        
+        { "Alan Turing": "23.06.1912" },
+        { "John von Neumann": "28.12.1903" },
+        { "Konrad Zuse": " 22.06.1910" },
+        { "Tim Berners-Lee": "08.06.1955" },
+        { "Steve Jobs": "24.02.1955" },
+        { "Steve Wozniak": "11.08.1950" },
+        { "Linus Torvalds": "28.12.1969" },
+        { "Bill Gates": "28.10.1955" },
+        
+        { "Wolfgang Amadeus Mozart": "27.01.1756" },
+        { "Johann Sebastian Bach": "21.03.1685" },
+        { "Ludwig van Beethoven": "16.12.1770" },
+        { "Richard Wagner": "22.05.1813" },
+        
+        { "Vincent van Gogh": " 30.03.1853" },
+        { "Pablo Picasso": " 25.10.1881" },
+        { "Leonardo da Vinci": "15.04.1452" },
+        { "Rembrandt van Rijn": "15.07.1606" },
+        
+        { "Niccolò Machiavelli": "03.05.1469" },
+        { "Johann Wolfgang von Goethe": "28.08.1749" },
+
+        { "Loriot": "12.11.1923" },
+        { "Otto Waalkes": "22.07.1948" }
+    ],
+    "private": [
+        { "Freund X": "04.02.1997" },
+        { "Freund Y": "20.10.1999" }
+    ]
+}
